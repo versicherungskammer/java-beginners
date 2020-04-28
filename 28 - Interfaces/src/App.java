@@ -5,7 +5,7 @@ public class App {
         Machine mach1 = new Machine();
         mach1.start();
          
-        Person person1 = new Person("Bob");
+        Person person1 = new Person("Alexa");
         person1.greet();
          
         Info info1 = new Machine();

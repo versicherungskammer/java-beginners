@@ -1,5 +1,5 @@
 public enum Animal {
-    CAT("Fergus"), DOG("Fido"), MOUSE("Jerry");
+    CAT("Tom"), DOG("Spike"), MOUSE("Jerry");
      
     private String name;
      

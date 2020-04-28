@@ -41,8 +41,8 @@ public class App {
          
         System.out.println("After creating objects, count is: " + Thing.count);
          
-        thing1.name = "Bob";
-        thing2.name = "Sue";
+        thing1.name = "Alexa";
+        thing2.name = "Siri";
          
         thing1.showName();
         thing2.showName();

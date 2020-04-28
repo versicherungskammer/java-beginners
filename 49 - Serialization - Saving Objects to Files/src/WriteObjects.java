@@ -10,18 +10,18 @@ public class WriteObjects {
     public static void main(String[] args) {
         System.out.println("Writing objects...");
  
-        Person mike = new Person(543, "Mike");
-        Person sue = new Person(123, "Sue");
+        Person alexa = new Person(543, "Alexa");
+        Person siri = new Person(123, "Siri");
          
-        System.out.println(mike);
-        System.out.println(sue);
+        System.out.println(alexa);
+        System.out.println(siri);
          
         try(FileOutputStream fs = new FileOutputStream("people.bin")) {
              
             ObjectOutputStream os = new ObjectOutputStream(fs);
              
-            os.writeObject(mike);
-            os.writeObject(sue);
+            os.writeObject(alexa);
+            os.writeObject(siri);
              
             os.close();
              

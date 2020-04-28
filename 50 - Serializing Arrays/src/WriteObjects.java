@@ -11,7 +11,7 @@ public class WriteObjects {
     public static void main(String[] args) {
         System.out.println("Writing objects...");
          
-        Person[] people = {new Person(1, "Sue"), new Person(99, "Mike"), new Person(7, "Bob")};
+        Person[] people = {new Person(1, "Alexa"), new Person(99, "Siri"), new Person(7, "Cortana")};
          
         ArrayList<Person> peopleList = new ArrayList<Person>(Arrays.asList(people));
  

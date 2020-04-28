@@ -55,8 +55,8 @@ public class UrlLibrary implements Iterable<String> {
      
     public UrlLibrary() {
         urls.add("http://www.caveofprogramming.com");
-        urls.add("http://www.facebook.com/caveofprogramming");
-        urls.add("http://news.bbc.co.uk");
+        urls.add("http://www.google.com");
+        urls.add("http://vkb.de");
     }
  
     @Override

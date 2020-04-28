@@ -18,7 +18,7 @@ public class Plant {
     int height;
      
     public Plant() {
-        this.name = "Freddy";
+        this.name = "Cortana";
         this.type = "plant";
         this.size = "medium";
         this.height = 8;

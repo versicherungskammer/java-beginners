@@ -28,9 +28,9 @@ public class App {
     public static void main(String[] args) {
         Machine machine1 = new Machine();
  
-        Machine machine2 = new Machine("Bertie");
+        Machine machine2 = new Machine("Alexa");
          
-        Machine machine3 = new Machine("Chalky", 7);
+        Machine machine3 = new Machine("Siri", 7);
     }
  
 }

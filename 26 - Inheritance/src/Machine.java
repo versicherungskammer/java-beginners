@@ -1,6 +1,6 @@
 public class Machine {
      
-    protected String name = "Machine Type 1";
+    protected String name = "Machine Alexa";
      
     public void start() {
         System.out.println("Machine started.");

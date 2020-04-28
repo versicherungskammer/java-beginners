@@ -52,10 +52,10 @@ public class App {
  
     public static void main(String[] args) {
          
-        Person p1 = new Person(0, "Bob");
-        Person p2 = new Person(1, "Sue");
-        Person p3 = new Person(2, "Mike");
-        Person p4 = new Person(1, "Sue");
+        Person p1 = new Person(0, "Alexa");
+        Person p2 = new Person(1, "Siri");
+        Person p3 = new Person(2, "Cortana");
+        Person p4 = new Person(1, "Luke");
          
         Map<Person, Integer> map = new LinkedHashMap<Person, Integer>();
          

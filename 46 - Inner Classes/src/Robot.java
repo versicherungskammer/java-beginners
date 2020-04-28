@@ -35,7 +35,7 @@ public class Robot {
         Brain brain = new Brain();
         brain.think();
          
-        final String name = "Robert";
+        final String name = "Alexa";
          
         // Sometimes it's useful to create local classes
         // within methods. You can use them only within the method.

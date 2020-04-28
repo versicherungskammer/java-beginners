@@ -75,11 +75,11 @@ public class App {
     }
      
     private static void addElements(Collection<Person> col) {
-        col.add(new Person("Joe"));
-        col.add(new Person("Sue"));
-        col.add(new Person("Juliet"));
-        col.add(new Person("Clare"));
-        col.add(new Person("Mike"));
+        col.add(new Person("Alexa"));
+        col.add(new Person("Siri"));
+        col.add(new Person("Cortana"));
+        col.add(new Person("Luke"));
+        col.add(new Person("Skywalker"));
     }
      
     private static void showElements(Collection<Person> col) {

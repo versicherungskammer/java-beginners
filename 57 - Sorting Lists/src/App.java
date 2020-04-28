@@ -105,10 +105,10 @@ public class App {
          
         List<Person> people = new ArrayList<Person>();
          
-        people.add(new Person(1, "Joe"));
-        people.add(new Person(3, "Bob"));
-        people.add(new Person(4, "Clare"));
-        people.add(new Person(2, "Sue"));
+        people.add(new Person(1, "Alexa"));
+        people.add(new Person(3, "Siri"));
+        people.add(new Person(4, "Cortana"));
+        people.add(new Person(2, "Luke"));
          
         // Sort in order of ID
         Collections.sort(people, new Comparator<Person>() {

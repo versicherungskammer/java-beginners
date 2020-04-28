@@ -6,7 +6,7 @@ public class App {
         // Inefficient
         String info = "";
          
-        info += "My name is Bob.";
+        info += "My name is Cortana.";
         info += " ";
         info += "I am a builder.";
          
@@ -15,7 +15,7 @@ public class App {
         // More efficient.
         StringBuilder sb = new StringBuilder("");
          
-        sb.append("My name is Sue.");
+        sb.append("My name is Luke.");
         sb.append(" ");
         sb.append("I am a lion tamer.");
          
@@ -25,7 +25,7 @@ public class App {
          
         StringBuilder s = new StringBuilder();
          
-        s.append("My name is Roger.")
+        s.append("My name is Skywalker.")
         .append(" ")
         .append("I am a skydiver.");
          

@@ -16,7 +16,7 @@ public class App {
         System.out.println(words[2]);
          
         // Simultaneously declare and initialize an array of strings
-        String[] fruits = {"apple", "banana", "pear", "kiwi"};
+        String[] fruits = {"apple", "banana", "melon", "kiwi"};
          
         // Iterate through an array
         for(String fruit: fruits) {

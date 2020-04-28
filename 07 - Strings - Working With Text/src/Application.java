@@ -7,13 +7,13 @@ public class Application {
          
         String blank = " ";
          
-        String name = "Bob";
+        String name = "Azubis";
          
         String greeting = text + blank + name;
          
         System.out.println(greeting);
          
-        System.out.println("Hello" + " " + "Bob");
+        System.out.println("Hello" + " " + "Azubis");
          
         System.out.println("My integer is: " + myInt);
          
